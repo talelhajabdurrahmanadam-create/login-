@@ -1,0 +1,47 @@
+ body{
+  height: 100vh;
+  margin: 0;
+   background-image: url(backgroundproject1.jpeg);
+   background-repeat:no-repeat ;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ div{
+   text-align: center;
+    margin: 20px 15px 15px 15px;
+     padding: 20px;
+     
+    
+ }
+ form{
+ 
+  max-width: 450px; 
+  width: 100%;
+   background-color: rgba(245, 179, 232, 0.171);
+   margin:  0 auto;
+    padding-bottom: 50px  ;
+   border-radius: 50px;
+   text-align: center;
+   box-shadow: 0px 10px 30px 20px;
+ }
+ h1{
+padding: 2px;
+ }
+ input{
+   padding: 10px;
+   margin: 10px;
+   border-radius: 10px; 
+   border: none;
+   background-color:rgba(10, 10, 10, 0.995); ;
+ }
+ button{
+   margin: 10px;
+   background-color: black;
+   color: aliceblue;
+ } 
+ input .checkbox{
+background-color: black;
+ }
